@@ -1,0 +1,24 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url("../img/header/1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.div #development{
+  font-size: 18px;
+  border: 2px solid red;
+  border-radius: 25px;
+  width: 150px;
+  height: 150px;
+}
+
+.footer {
+  height:350px;
+  min-height:100px;
+  background-image:url("../img/header/2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
